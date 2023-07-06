@@ -1,0 +1,6 @@
+.card-img-overlay {
+    background: linear-gradient(41deg, #0095ff9e, transparent);
+  }
+  .card-img-overlay p{
+    text-transform: uppercase;
+  }

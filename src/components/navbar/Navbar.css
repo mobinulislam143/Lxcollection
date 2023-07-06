@@ -1,0 +1,11 @@
+.navbar-nav.mr-auto.mb-2.mb-lg-0 {
+  padding: 0px 17%;
+}
+
+.btn.btn-outline-dark {
+  display: flex;
+  align-items: center;
+}
+.fa.fa-sign-in {
+  padding: 0px 7px;
+}
