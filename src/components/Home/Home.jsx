@@ -2,6 +2,7 @@ import React from "react";
 import banner from '../../../src/assets/images/banner.jpg'
 import "../Home/Home.css"
 import Product from "../Product/product";
+import Footer from "../footer/footer";
 
 const Home = () => {
     return(
@@ -17,6 +18,7 @@ const Home = () => {
             </div>
             </div>
         <Product/>
+        <Footer/>
         </div>
     )
 }
